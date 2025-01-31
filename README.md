@@ -13,13 +13,6 @@ Sebelum menjalankan proyek ini, Anda perlu menginstal beberapa pustaka Python be
 - `sklearn`
 - `matplotlib`
 
-Kita dapat menginstalnya menggunakan pip:
-
-```bash
-pip install pandas numpy scikit-learn matplotlib
-
-
-
 # Dataset
 Dataset yang digunakan dalam proyek ini adalah cardekho_data.csv. Dataset ini berisi informasi tentang mobil, termasuk:
 
